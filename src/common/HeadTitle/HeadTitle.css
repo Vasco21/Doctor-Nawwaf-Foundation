@@ -1,0 +1,48 @@
+.images-headings {
+    background-position: center;
+    background-size: 1800px 440px;
+    background-repeat: no-repeat;
+    color: hsl(0, 0%, 100%);
+    margin-top: 2%;
+    padding: 10% 50px;
+    height: 50vh;
+    line-height: 50vh;
+    position: relative;
+    z-index: -2;
+  }
+  .images-headings .containers {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+  .images-headings::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.4);
+    height: 50vh;
+    width: 100%;
+    z-index: -1;
+  }
+  .images-headings .hometop{
+    font-size: 40px;
+    text-transform: capitalize;
+    color: black;
+  }
+  .images-headings .hometops {
+    background: black;
+    color: white;
+    font-weight: 400;
+    padding: 15px 30px;
+    word-spacing: 5px;
+  }
+  .images-headings a {
+    color: #b68731;
+    cursor: pointer;
+  }
+  .images-headings span {
+    text-transform: capitalize;
+    word-spacing: 30px;
+  }

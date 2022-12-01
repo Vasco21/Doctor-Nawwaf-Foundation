@@ -1,0 +1,78 @@
+[
+  {
+    "names": "Vasco Eti",
+    "gender": "Male",
+    "email": "constance.gartner@example.com",
+    "phone": "078 885 5531",
+    "location": {
+      "number": 2916,
+      "name": "Section M"
+    },
+    "dob": {
+      "date": "1978-12-04",
+      "age": 44
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1655918554/Creative-Power-Org/EddieV_zgdvzv.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1655918554/Creative-Power-Org/EddieV_zgdvzv.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1655918554/Creative-Power-Org/EddieV_zgdvzv.jpg"
+    }
+  },
+  {
+    "names": "thobo Eti",
+    "gender": "Male",
+    "email": "constance.gartner@example.com",
+    "phone": "078 999 5531",
+    "location": {
+      "number": 2476,
+      "name": "Section N"
+    },
+    "dob": {
+      "date": "1978-12-04",
+      "age": 23
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1655918542/Creative-Power-Org/Mvuka_s2mmoj.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1655918542/Creative-Power-Org/Mvuka_s2mmoj.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1655918542/Creative-Power-Org/Mvuka_s2mmoj.jpg"
+    }
+  },
+  {
+    "names": "thobo nase",
+    "gender": "Male",
+    "email": "constance.gartner@example.com",
+    "phone": "078 888 5531",
+    "location": {
+      "number": 2426,
+      "name": "Section N"
+    },
+    "dob": {
+      "date": "1998-12-04",
+      "age": 15
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1655918545/Creative-Power-Org/secondSp_pzorle.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1655918545/Creative-Power-Org/secondSp_pzorle.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1655918545/Creative-Power-Org/secondSp_pzorle.jpg"
+    }
+  },
+  {
+    "names": "thobo swe",
+    "gender": "Male",
+    "email": "constance.gartner@example.com",
+    "phone": "078 885 5531",
+    "location": {
+      "number": 2416,
+      "name": "Section L"
+    },
+    "dob": {
+      "date": "1988-12-04",
+      "age": 25
+    },
+    "picture": {
+      "large": "https://res.cloudinary.com/creative-power/image/upload/v1655918544/Creative-Power-Org/Pro_zzi2dz.jpg",
+      "medium": "https://res.cloudinary.com/creative-power/image/upload/v1655918544/Creative-Power-Org/Pro_zzi2dz.jpg",
+      "thumbnail": "https://res.cloudinary.com/creative-power/image/upload/v1655918544/Creative-Power-Org/Pro_zzi2dz.jpg"
+    }
+  }
+]
